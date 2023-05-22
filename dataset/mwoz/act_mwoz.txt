@@ -1,0 +1,21 @@
+0	Restaurant-Inform
+1	Restaurant-Request
+2	
+3	Attraction-Inform
+4	Taxi-Inform
+5	general-thank
+6	Train-Inform
+7	Hotel-Inform
+8	general-bye
+9	Attraction-Request
+10	Train-Request
+11	Taxi-Request
+12	Hotel-Request
+13	general-greet
+14	general-reqmore
+15	general-welcome
+16	Police-Request
+17	Hospital-Inform
+18	Hospital-Request
+19	Police-Inform
+20	Booking-Inform
