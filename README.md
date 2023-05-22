@@ -7,7 +7,7 @@ Dialogue systems have received increasing attention while automatically evaluati
 ## Model 
 
 <p align="center">
-  <img src="models/ASAP_framework.png" width="70%" />
+  <img src="models/ASAP.pdf" width="70%" />
 </p>
 
 <p align="center">The model architecture of ASAP</p>
