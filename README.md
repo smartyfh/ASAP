@@ -13,3 +13,33 @@ encodings to retain temporal information. The base estimator leverages only the 
 </p>
 
 <p align="center">The model architecture of ASAP</p>
+
+## Training
+The datasets we have experimented with include MWOZ, SGD, ReDial and JDDC (Chinese).
+
+For training on the English datasets, run the following script:
+```console
+❱❱❱ bash train.sh
+```
+
+For training on JDDC, use the following script:
+```console
+❱❱❱ bash train-JDDC.sh
+```
+
+Our trained model checkpoints on all datasets can be downloaded [here]().
+
+
+## Citation
+
+```bibtex
+@inproceedings{ye2023modeling,
+  title={Modeling User Satisfaction Dynamics in Dialogue via Hawkes Process},
+  author={Ye Fanghua, Hu Zhiyuan, Yilmaz Emine},
+  booktitle={The 61st Annual Meeting of the Association for Computational Linguistics (ACL’23)},
+  year={2023}
+  }
+```
+
+## Reference
+Our implementation is based on [USDA](https://github.com/dengyang17/USDA). We also leveraged the datasets preprocessed by USDA directly.
