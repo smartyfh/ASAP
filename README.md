@@ -27,7 +27,7 @@ For training on JDDC, use the following script:
 ❱❱❱ bash train-JDDC.sh
 ```
 
-Our trained model checkpoints on all datasets can be downloaded [here]().
+Our trained model checkpoints on all datasets can be downloaded [here](https://drive.google.com/drive/folders/1YXUB2GVazUM_iW2k4oz6KlaCOc8cRg37?usp=share_link).
 
 
 ## Citation
